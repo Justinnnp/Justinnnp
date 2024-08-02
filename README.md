@@ -6,4 +6,4 @@
 Justinnnp/Justinnnp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-[[https://spotify-github-profile.kittinanx.com/api/view.svg?uid=6z4yvu1s7d8x6ryc7z38a1xxd&redirect=true][https://spotify-github-profile.kittinanx.com/api/view.svg?uid=6z4yvu1s7d8x6ryc7z38a1xxd&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color_cover=true)]]
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=6z4yvu1s7d8x6ryc7z38a1xxd&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=6z4yvu1s7d8x6ryc7z38a1xxd&redirect=true)
